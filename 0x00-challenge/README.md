@@ -1,2 +1,1 @@
-Please find here my implementation of sorting arguments in Ruby: source code
-
+Please take a look at my implementation of printing a square in Javascript: source code
